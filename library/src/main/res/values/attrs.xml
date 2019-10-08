@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextViewCustomFont">
+        <attr name="bla" format="color"/>
+        <attr name="custom_size" format="enum">
+            <enum name="size_small" value="0" />
+            <enum name="size_medium" value="1" />
+            <enum name="size_large" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
